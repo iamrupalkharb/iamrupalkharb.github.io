@@ -1,0 +1,90 @@
+
+/* Navigation bar styling */
+nav {
+    background-color: #a80000; /* Dark background for the navbar */
+    padding: 10px;
+}
+
+nav a {
+    color: #ffffff; /* White text for the navbar links */
+    padding: 10px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+
+/* Homepage header */
+.home-page{
+    background-color: #ffebde;
+}
+.home-page header h1 {
+    color: #ad1414; /* Blue header for the welcome message */
+    background-color:#ebd9d6 ;
+
+}
+
+/* Homepage introductory paragraph */
+.home-page .intro-paragraph {
+    color: #520404; /* Red text for the introduction paragraph */
+    background-color:#eeb676 ;
+
+}
+
+/* About Me page styling */
+.about-page{
+    background-color: #c6fafb;
+}
+.about-page header h1 {
+    color: #b76c27; /* Dark blue heading for your name */
+
+}
+
+.intro-text {
+    color: #0c0e84; /* Light blue text for your introduction */
+    background-color: #7b9ab1;
+}
+
+.intro-hobby {
+    color: #7d241a; /* Red text for the hobby paragraph */
+    background-color: #d99ca7;
+}
+
+/* Contact form styling */
+.contact-page{
+    background-color: #ffd4c8;
+}
+.contact-page header h1 {
+    color : #e74c3c;
+
+}
+
+.contact-page label {
+    color:#403939;
+}
+.contact-page input[type="text"] {
+    background-color: #f19287;
+    color: #ef4c75;
+}
+.contact-page input[type="email"] {
+    background-color: #f19287;
+    color: #a54959;
+}
+
+.contact-page input[type="text"] {
+    background-color: #f19287;
+    color: #99606a;
+}
+.contact-page textarea {
+    background-color: #f19287;
+    color: #a54959;
+}
+.contact-page button {
+    background-color: #a54959;
+    color: white;
+    
+}
+
+/* Form labels and fields color */
+input, textarea {
+    border-color: #000000; /* Blue border for inputs and textarea */
+}
